@@ -1,0 +1,5 @@
+java 
+class java;
+public static mian String[arge s]{
+  System.out.println("hello world");
+}
